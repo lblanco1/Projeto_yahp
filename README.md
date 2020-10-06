@@ -1,5 +1,10 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
+## Sobre o site
+
+É um site feito com as principais tecnologias bootstrap e laravel, onde possamos cadastrar os produtos de um supermecado, adicionando produto e localização conexão ao banco de dados MySql, porem não esta finalizado, faltou a parte de conexão com banco. 
+
+
 ![image](https://user-images.githubusercontent.com/44181055/95240052-3c439f00-07e2-11eb-84f3-4e463c0047e1.png)
 
 <p align="center">
