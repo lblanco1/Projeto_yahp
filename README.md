@@ -2,7 +2,7 @@
 
 ## Sobre o site
 
-É um site feito com as principais tecnologias bootstrap e laravel, onde possamos cadastrar os produtos de um supermecado, adicionando produto e localização conexão ao banco de dados MySql, porem não esta finalizado, faltou a parte de conexão com banco. 
+É um site feito com as principais tecnologias bootstrap e laravel, onde possamos cadastrar os produtos de um supermecado, adicionando produto e localização com conexão ao banco de dados MySql, porem não esta finalizado, faltou a parte de conexão com banco. 
 
 
 ![image](https://user-images.githubusercontent.com/44181055/95240052-3c439f00-07e2-11eb-84f3-4e463c0047e1.png)
